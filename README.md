@@ -40,7 +40,9 @@ Run evaluate.py to calculate the Absolute Relative Error, Root Mean Square Error
 ## Example of our dataset and predicted results
 Origin RGB image:
 ![origin image](result_images/Eigen_modified/0_origin_rgb.jpg)
+
 Origin raw Depth file:
 ![origin depth](result_images/Eigen_modified/0_origin_dps.jpg)
+
 Predicted Depth:
 ![origin depth](result_images/Eigen_modified/0_predicted_dps.jpg)
